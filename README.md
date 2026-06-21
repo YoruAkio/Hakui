@@ -6,7 +6,7 @@
 
 **A fast, modern desktop toolkit for everyday media work.**
 
-[![Build](https://github.com/yoruakio/hayai/actions/workflows/build.yml/badge.svg)](https://github.com/yoruakio/hayai/actions/workflows/build.yml)
+[![Build](https://github.com/YoruAkio/Hakui/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/YoruAkio/Hakui/actions/workflows/build.yml)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](#install)
 
