@@ -567,7 +567,7 @@ function TopBar() {
   return (
     <header className="drag flex h-10 shrink-0 items-center justify-between bg-card pl-3 pr-2">
       <div className="flex items-center gap-2">
-        <img src="/icon.svg" alt="" className="h-5 w-5" />
+        <img src="./icon.svg" alt="" className="h-5 w-5" />
         <span className="text-xs font-semibold">Hayai</span>
       </div>
       <div className="flex items-center gap-1">
