@@ -50,6 +50,7 @@ jobs:
             out/make/**/*.dmg
             out/make/**/*.deb
             out/make/**/*.rpm
+            out/make/**/*.zip
           if-no-files-found: error
 
   release:
